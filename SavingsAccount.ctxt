@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=SavingsAccount
+comment0.text=\n\ Write\ a\ description\ of\ class\ CheckingAccount\ here.\n\n\ @author\ (Kristen)\n
+comment1.params=userLink\ id
+comment1.target=SavingsAccount(java.lang.String,\ int)
+comment2.params=userLink\ id\ balance
+comment2.target=SavingsAccount(java.lang.String,\ int,\ double)
+comment3.params=data
+comment3.target=SavingsAccount(java.lang.String[])
+numComments=4

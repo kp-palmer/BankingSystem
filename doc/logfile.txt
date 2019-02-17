@@ -1,0 +1,43 @@
+Class documentation
+<---- javadoc command: ---->
+/private/var/folders/kc/ppvxlbsn4d9b8yl4l718g7bm0000gt/T/AppTranslocation/BA38244C-F1C2-4571-AA6E-A6D66A5EAD15/d/BlueJ.app/Contents/JDK/Home/bin/javadoc
+-author
+-version
+-nodeprecated
+-package
+-Xdoclint:none
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.8
+-classpath
+/private/var/folders/kc/ppvxlbsn4d9b8yl4l718g7bm0000gt/T/AppTranslocation/BA38244C-F1C2-4571-AA6E-A6D66A5EAD15/d/BlueJ.app/Contents/Resources/Java/bluejcore.jar:/private/var/folders/kc/ppvxlbsn4d9b8yl4l718g7bm0000gt/T/AppTranslocation/BA38244C-F1C2-4571-AA6E-A6D66A5EAD15/d/BlueJ.app/Contents/Resources/Java/junit-4.11.jar:/private/var/folders/kc/ppvxlbsn4d9b8yl4l718g7bm0000gt/T/AppTranslocation/BA38244C-F1C2-4571-AA6E-A6D66A5EAD15/d/BlueJ.app/Contents/Resources/Java/hamcrest-core-1.3.jar:/private/var/folders/kc/ppvxlbsn4d9b8yl4l718g7bm0000gt/T/AppTranslocation/BA38244C-F1C2-4571-AA6E-A6D66A5EAD15/d/BlueJ.app/Contents/Resources/Java/lang-stride.jar:/private/var/folders/kc/ppvxlbsn4d9b8yl4l718g7bm0000gt/T/AppTranslocation/BA38244C-F1C2-4571-AA6E-A6D66A5EAD15/d/BlueJ.app/Contents/Resources/Java/userlib/pi4j-core.jar:/private/var/folders/kc/ppvxlbsn4d9b8yl4l718g7bm0000gt/T/AppTranslocation/BA38244C-F1C2-4571-AA6E-A6D66A5EAD15/d/BlueJ.app/Contents/Resources/Java/userlib/pi4j-gpio-extension.jar:/private/var/folders/kc/ppvxlbsn4d9b8yl4l718g7bm0000gt/T/AppTranslocation/BA38244C-F1C2-4571-AA6E-A6D66A5EAD15/d/BlueJ.app/Contents/Resources/Java/userlib/pi4j-service.jar:/private/var/folders/kc/ppvxlbsn4d9b8yl4l718g7bm0000gt/T/AppTranslocation/BA38244C-F1C2-4571-AA6E-A6D66A5EAD15/d/BlueJ.app/Contents/Resources/Java/userlib/pi4j-device.jar:/Users/kristen/Desktop/AP Comp Sci/BigBank
+-d
+/Users/kristen/Desktop/AP Comp Sci/BigBank/doc
+-encoding
+UTF-8
+-charset
+UTF-8
+/Users/kristen/Desktop/AP Comp Sci/BigBank/BankAccountMain.java
+<---- end of javadoc command ---->
+Loading source file /Users/kristen/Desktop/AP Comp Sci/BigBank/BankAccountMain.java...
+Constructing Javadoc information...
+Standard Doclet version 1.8.0_131
+Building tree for all the packages and classes...
+Generating /Users/kristen/Desktop/AP Comp Sci/BigBank/doc/BankAccountMain.html...
+/Users/kristen/Desktop/AP Comp Sci/BigBank/BankAccountMain.java:86: warning - @param argument "un:" is not a parameter name.
+/Users/kristen/Desktop/AP Comp Sci/BigBank/BankAccountMain.java:86: warning - @param argument "password:" is not a parameter name.
+/Users/kristen/Desktop/AP Comp Sci/BigBank/BankAccountMain.java:202: warning - @param argument "o:" is not a parameter name.
+/Users/kristen/Desktop/AP Comp Sci/BigBank/BankAccountMain.java:202: warning - @param argument "file:" is not a parameter name.
+/Users/kristen/Desktop/AP Comp Sci/BigBank/BankAccountMain.java:100: warning - @returns is an unknown tag.
+Generating /Users/kristen/Desktop/AP Comp Sci/BigBank/doc/package-frame.html...
+Generating /Users/kristen/Desktop/AP Comp Sci/BigBank/doc/package-summary.html...
+Generating /Users/kristen/Desktop/AP Comp Sci/BigBank/doc/constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating /Users/kristen/Desktop/AP Comp Sci/BigBank/doc/allclasses-frame.html...
+Generating /Users/kristen/Desktop/AP Comp Sci/BigBank/doc/allclasses-noframe.html...
+Generating /Users/kristen/Desktop/AP Comp Sci/BigBank/doc/index.html...
+5 warnings
